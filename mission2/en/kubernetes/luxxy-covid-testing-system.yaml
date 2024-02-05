@@ -39,17 +39,17 @@ spec:
             memory: 100Mi
         env:
         - name: AWS_BUCKET
-          value: "luxxy-covid-testing-system-pdf-en-hnwkraxv"
+          value: "luxxy-covid-testing-system-pdf"
         - name: S3_ACCESS_KEY
-          value: "AKIA6GBMDON2AQOB5DMP"
+          value: "xxxxxxxxxxxxxxxxx"
         - name: S3_SECRET_ACCESS_KEY
-          value: "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"
+          value: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         - name: DB_HOST_NAME
           value: "10.14.0.3"
         - name: DB_USER
           value: "app"
         - name: DB_PASSWORD
-          value: "welcome123456"
+          value: "***************"
         - name: DB_NAME
           value: "dbcovidtesting"
         - name: DB_PORT
