@@ -218,5 +218,3 @@ Follow these steps to configure the network settings for your Cloud SQL instance
     ```
 
 3. **Test the application in the "View Records" tab** to verify if the data and files are available.
-
-And there you go! Your online solution is up and running!
