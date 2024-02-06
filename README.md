@@ -1,4 +1,4 @@
-# Cloud Immersion Hands On
+# Real-time Migration of Hotel System to Cloud Infrastructure
 This project employs an advanced multicloud approach, utilizing the capabilities of both GCP and AWS, to provide a sophisticated Infrastructure as Code (IAC) solution seamlessly integrated with Terraform. In a practical scenario, a luxury hotel is undergoing the migration of its COVID guest testing application and infrastructure to the cloud.
 
 ## Requirements
